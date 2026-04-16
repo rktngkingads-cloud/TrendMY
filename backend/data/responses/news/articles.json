@@ -1,0 +1,30 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Sample News Article 1",
+      "content": "This is a sample content for the first news article.",
+      "author": "Author One",
+      "category": "World",
+      "tags": ["tag1", "tag2"],
+      "published_at": "2026-04-15T10:00:00Z",
+      "featured": true,
+      "image_url": "http://example.com/article1.jpg",
+      "views": 100,
+      "social_shares": {"facebook": 10, "twitter": 5}
+    },
+    {
+      "id": 2,
+      "title": "Sample News Article 2",
+      "content": "This is a sample content for the second news article.",
+      "author": "Author Two",
+      "category": "Technology",
+      "tags": ["tag3", "tag4"],
+      "published_at": "2026-04-16T12:00:00Z",
+      "featured": false,
+      "image_url": "http://example.com/article2.jpg",
+      "views": 150,
+      "social_shares": {"facebook": 20, "twitter": 10}
+    }
+  ]
+}
