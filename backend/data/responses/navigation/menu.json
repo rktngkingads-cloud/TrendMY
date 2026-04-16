@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "category": "Home",
+      "link": "/",
+      "submenu": []
+    },
+    {
+      "category": "About",
+      "link": "/about",
+      "submenu": []
+    },
+    {
+      "category": "Services",
+      "link": "/services",
+      "submenu": [
+        {
+          "category": "Consulting",
+          "link": "/services/consulting"
+        },
+        {
+          "category": "Sales",
+          "link": "/services/sales"
+        }
+      ]
+    },
+    {
+      "category": "Contact",
+      "link": "/contact",
+      "submenu": []
+    }
+  ]
+}
