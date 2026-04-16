@@ -1,0 +1,17 @@
+[  
+    {  
+        "label": "Home",  
+        "url": "/",  
+        "active": false  
+    },  
+    {  
+        "label": "Products",  
+        "url": "/products",  
+        "active": false  
+    },  
+    {  
+        "label": "Product Details",  
+        "url": "/products/details",  
+        "active": true  
+    }  
+]
